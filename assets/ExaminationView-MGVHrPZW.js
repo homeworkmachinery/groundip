@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";const n={};function r(t,c){return" 实用新型和外观设计专利申请经（初步）审查没有发现驳回理由的，由（国务院专利行政部门）作出授予实用新型专利权或者外观设计专利权的决定。 "}const o=e(n,[["render",r]]);export{o as default};
