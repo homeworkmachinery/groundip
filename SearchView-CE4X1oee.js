@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,o}from"./index-BiZWj2oT.js";const a={},r={class:"search-page"};function s(t,_){return o(),c("div",r)}const f=e(a,[["render",s],["__scopeId","data-v-ec99c5ba"]]);export{f as default};
