@@ -1,1 +1,0 @@
-import"./index-BcFhOSVY.js";import{d as s,i as e,c as o,o as c}from"./index-BiZWj2oT.js";import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";const r={class:"price-page"},a=s({__name:"ProcessView",setup(_){return e(!1),e("/us/美国商标使用证据详情.docx"),(p,n)=>(c(),o("div",r))}}),d=t(a,[["__scopeId","data-v-582f1532"]]);export{d as default};

@@ -1,1 +1,0 @@
-import{_ as a}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,o as s,b as t}from"./index-BiZWj2oT.js";const c={},o={class:"search-page"};function n(d,e){return s(),r("div",o,[...e[0]||(e[0]=[t("a",{href:"https://ised-isde.canada.ca/cipo/trademark-search/srch",target:"_blank"},"加拿大商标查询",-1)])])}const f=a(c,[["render",n]]);export{f as default};
